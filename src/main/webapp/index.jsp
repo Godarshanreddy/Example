@@ -1,1 +1,1 @@
-<h1 style="color: red;text-align: center;"> welcome to Junkins <%=new java.util.Date() %></h1>
+<h1 style="color: red;text-align: center;"> Current datae and Time<%=new java.util.Date() %></h1>
